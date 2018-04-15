@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Regression" verbose="1" >
+  <test name="suite 1" >
+    <classes>
+      <class name="org.cts.pun.sba.tests.VerifyPageTitle"/>
+      <class name="org.cts.pun.sba.tests.BookTicket"/>
+    </classes>
+ </test>
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [Regression]">
+  <test name="suite 1(failed)">
+    <classes>
+      <class name="org.cts.pun.sba.tests.BookTicket">
+        <methods>
+          <include name="init"/>
+          <include name="tearDown"/>
+          <include name="bookTicketTest"/>
+        </methods>
+      </class> <!-- org.cts.pun.sba.tests.BookTicket -->
+    </classes>
+  </test> <!-- suite 1(failed) -->
+</suite> <!-- Failed suite [Regression] -->
